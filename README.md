@@ -6,7 +6,7 @@ I'm Nicolas, a junior french web developper !
 
 🌱 I’m mainly learning Javascript, using React and Node.js with Express framework.
 
-📫 You can reach me throught [Linkedin](https://www.linkedin.com/in/nicolas-dantas/).
+📫 You can reach me throught [Linkedin](https://www.linkedin.com/in/nicolas-dantas/) and look at my [GitHub](https://github.com/nicolasdantas) 
 
 
 
