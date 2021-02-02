@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Nicolas, a junior french web developper !
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasdantas)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **nicolasdantas/nicolasdantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
