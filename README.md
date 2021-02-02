@@ -8,8 +8,6 @@ I'm Nicolas, a junior french web developper !
 
 📫 You can reach me throught [Linkedin](https://www.linkedin.com/in/nicolas-dantas/) and look at my [GitHub](https://github.com/nicolasdantas) or my <a href="https://drive.google.com/file/d/1Nm6gAzqjurwRMUmHzSyqLrzJ3ufPXCWk/view?usp=sharing&embedded=true" target="_blank">CV</a>
 
-[CV](https://drive.google.com/file/d/1Nm6gAzqjurwRMUmHzSyqLrzJ3ufPXCWk/view?usp=sharing&embedded=true){:target="_blank"}
-
 Below you can see my languages stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdantas)](https://github.com/anuraghazra/github-readme-stats)
