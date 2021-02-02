@@ -2,7 +2,7 @@
 
 I'm Nicolas, a junior french web developper !
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasdantas)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdantas)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
