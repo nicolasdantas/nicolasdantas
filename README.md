@@ -4,7 +4,7 @@ I'm Nicolas, a junior french web developper !
 
 🔭 I’m currently doing a training with the Wild Code School in Lyon (FR).
 
-🌱 I’m mainly learning Javascript, using React and Node.js with Express framework.
+🌱 I’m mainly learning Javascript, using React and Node.js with Express framework but I have also knowledges in SQL, Git/GitHub, Agile methodology, ...
 
 📫 You can reach me throught [Linkedin](https://www.linkedin.com/in/nicolas-dantas/) and look at my [GitHub](https://github.com/nicolasdantas) 
 
