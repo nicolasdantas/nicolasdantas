@@ -6,6 +6,12 @@ I'm Nicolas, a junior french web developper !
 
 🌱 I’m mainly learning Javascript, using React and Node.js with Express framework but I have also knowledges in SQL, Git/GitHub, Agile methodology, ...
 
+<object data="https://drive.google.com/file/d/1Nm6gAzqjurwRMUmHzSyqLrzJ3ufPXCWk/view?usp=sharing&embedded=true" type="application/pdf" width="700px" height="700px">
+    <embed src="https://drive.google.com/file/d/1Nm6gAzqjurwRMUmHzSyqLrzJ3ufPXCWk/view?usp=sharing&embedded=true">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 📫 You can reach me throught [Linkedin](https://www.linkedin.com/in/nicolas-dantas/) and look at my [GitHub](https://github.com/nicolasdantas) 
 
  <iframe src="https://drive.google.com/file/d/1Nm6gAzqjurwRMUmHzSyqLrzJ3ufPXCWk/view?usp=sharing&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
