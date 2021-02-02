@@ -1,4 +1,4 @@
-### Hi there <img src='https://github.com/nicolasdantas/nicolasdantas/blob/main/wave.gif' />
+### Hi there <img src='https://github.com/nicolasdantas/nicolasdantas/blob/main/wave.gif' width="30px"/>
 
 I'm Nicolas, a junior french web developper !
 
