@@ -8,6 +8,7 @@ I'm Nicolas, a junior french web developper !
 
 📫 You can reach me throught [Linkedin](https://www.linkedin.com/in/nicolas-dantas/) and look at my [GitHub](https://github.com/nicolasdantas) 
 
+ <iframe src="https://drive.google.com/file/d/1Nm6gAzqjurwRMUmHzSyqLrzJ3ufPXCWk/view?usp=sharing&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
 
 Below you can see my languages stats :
 
